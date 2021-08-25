@@ -1,0 +1,7 @@
+model_name : 1
+filter_cnt : deeplab_v3
+img_size : 1
+batch_size : /app2/0531_image_test
+input_size : 280
+alpha_value : no
+gamma_value : /media/cres04/DATA/fracture/sr_train/kah_add_preprocess_train/histo_sample/00234306_F850000_1.png

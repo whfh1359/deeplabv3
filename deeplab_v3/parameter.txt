@@ -1,0 +1,7 @@
+model_name : minmax
+filter_cnt : /app2/depplab_model_test
+img_size : 1
+batch_size : 32
+input_size : 280
+alpha_value : no
+gamma_value : no
